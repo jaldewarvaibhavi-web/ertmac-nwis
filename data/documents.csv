@@ -16,7 +16,22 @@ NPT: Nil
 ----------------------------------------------------------------
 Company Man: P.D.
 ",synthetic prototype report,plain text,0
-W-101_DDR020_scanned,,Daily Drilling Report,W-101_DDR020_scanned.pdf,,synthetic prototype report,PDF text layer,0
+W-101_DDR020_scanned,W-101,Daily Drilling Report,W-101_DDR020_scanned.pdf,"NWIS PROTOTYPE - SYNTHETIC DAILY DRILLING REPORT (not a real OIL India record)
+Well: NHK-101 (W-101) Report No: 20
+Date: 04-Feb-2015 Rig: E-2000 HP (synthetic)
+Depth @ 06:00: 1,400 m MD Progress: 70 m
+Formation: Girujan Hole size: 12 1/4""
+TIME LOG (06:00 - 06:00)
+06:00-09:00 Drld 12 1/4"" hole fr 1330 to 1368m. WOB 20 klbs, RPM 106, SPP 2095 psi, 758 gpm.
+09:00-10:00 @ 1368m tight hole, some cavings on shaker, had to ream.
+10:00-11:00 Back-reamed tight section, pumped hi-vis sweep.
+hole OK after ream.
+11:00-13:00 Resumed drlg.
+13:00-06:00 Drld ahead to 1400m.
+MUD: WBM KCl-Polymer MW 9.6 ppg Pit volume 600 bbl
+NPT: 1.8 hrs (tight hole/reaming 1.8 hrs)
+Company Man: P.D.
+",synthetic prototype report,OCR,1
 W-101_DDR028,W-101,Daily Drilling Report,W-101_DDR028.txt,"NWIS PROTOTYPE - SYNTHETIC DAILY DRILLING REPORT (not a real OIL India record)
 ----------------------------------------------------------------
 Well: NHK-101 (W-101)      Report No: 28
@@ -388,8 +403,38 @@ NPT: Nil
 ----------------------------------------------------------------
 Company Man: S.G.
 ",synthetic prototype report,plain text,0
-W-105_DDR038_scanned,,Daily Drilling Report,W-105_DDR038_scanned.pdf,,synthetic prototype report,PDF text layer,0
-W-105_DDR045_scanned,,Daily Drilling Report,W-105_DDR045_scanned.pdf,,synthetic prototype report,PDF text layer,0
+W-105_DDR038_scanned,W-105,Daily Drilling Report,W-105_DDR038_scanned.pdf,"NWIS PROTOTYPE - SYNTHETIC DAILY DRILLING REPORT (not a real OIL India record)
+Well: NHK-105 (W-105) Report No: 38
+Date: 22-Feb-2009 Rig: E-2000 HP (synthetic)
+Depth @ 06:00: 2,660 m MD Progress: 70 m
+Formation: Barail Hole size: 8 1/2""
+TIME LOG (06:00 - 06:00)
+06:00-09:00 Drilled 8 1/2"" hole from 2,590 m to 2,624 m. WOB 17 klbs, RPM 113, SPP 1402 psi, flow 503 gpm.
+09:00-10:00 While drilling at 2,624 m the well started losing mud at approx 28 bbl/hr.
+10:00-13:00 Pumped 2 LCM pills, losses continued; set cement plug.
+The losses did not stop.
+13:00-15:00 Resumed drilling.
+15:00-06:00 Drilled ahead to 2,660 m.
+MUD: WBM KCl-Polymer MW 10.2 ppg Pit volume 596 bbl
+NPT: 3.2 hrs (mud losses 3.2 hrs)
+Company Man: S.G.
+",synthetic prototype report,OCR,1
+W-105_DDR045_scanned,W-105,Daily Drilling Report,W-105_DDR045_scanned.pdf,"NWIS PROTOTYPE - SYNTHETIC DAILY DRILLING REPORT (not a real OIL India record)
+Well: NHK-105 (W-105) Report No: 45
+Date: 01-Mar-2009 Rig: E-2000 HP (synthetic)
+Depth @ 06:00: 3,150 m MD Progress: 70 m
+Formation: Barail Hole size: 8 1/2""
+TIME LOG (06:00 - 06:00)
+06:00-09:00 Drilled 8 1/2"" hole from 3,080 m to 3,087 m. WOB 22 klbs, RPM 100, SPP 1483 psi, flow 497 gpm.
+09:00-10:00 At 3,087 m the string got stuck during a connection; we pulled 48 klbs over string weight.
+10:00-20:00 Jarred up, spotted pipe-freeing pill, pipe free after 6 hrs.
+The pipe came free.
+20:00-22:00 Resumed drilling.
+22:00-06:00 Drilled ahead to 3,150 m.
+MUD: WBM KCl-Polymer MW 10.2 ppg Pit volume 600 bbl
+NPT: 10.8 hrs (stuck pipe 10.8 hrs)
+Company Man: S.G.
+",synthetic prototype report,OCR,1
 W-105_DDR049,W-105,Daily Drilling Report,W-105_DDR049.txt,"NWIS PROTOTYPE - SYNTHETIC DAILY DRILLING REPORT (not a real OIL India record)
 ----------------------------------------------------------------
 Well: NHK-105 (W-105)      Report No: 49
@@ -967,7 +1012,35 @@ NPT: 3.8 hrs (High torque 3.8 hrs)
 ----------------------------------------------------------------
 Company Man: R.K.
 ",synthetic prototype report,plain text,1
-W-112_DDR046_scanned,,Daily Drilling Report,W-112_DDR046_scanned.pdf,,synthetic prototype report,PDF text layer,0
+W-112_DDR046_scanned,W-112,Daily Drilling Report,W-112_DDR046_scanned.pdf,"NWIS PROTOTYPE - SYNTHETIC DAILY DRILLING REPORT (not a real OIL India record)
+
+Well: NHK-112 (W-112) Report No: 46
+
+Date: 02-Mar-2023 Rig: E-2000 HP (synthetic)
+
+Depth @ 06:00: 3,220 m MD Progress: 70 m
+
+Formation: Kopili Hole size: 8 1/2""
+
+TIME LOG (06:00 - 06:00)
+
+06:00-09:00 Drilled 8 1/2"" hole from 3,150 m to 3,189 m. WOB 24 klbs, RPM 91, SPP 1523 psi, flow 496 gpm.
+
+09:00-10:00 At 3,189 m encountered tight hole with heavy cavings on shakers.
+
+10:00-12:00 Raised MW by 0.2 ppg, added KCl/polymer inhibitor, reamed tight spots.
+Hole in good condition after reaming.
+
+12:00-14:00 Resumed drilling.
+
+14:00-06:00 Drilled ahead to 3,220 m.
+
+MUD: WBM KCl-Polymer MW 10.6 ppg Pit volume 600 bbl
+
+NPT: 2.5 hrs (Tight hole 2.5 hrs)
+
+Company Man: R.K.
+",synthetic prototype report,OCR,1
 W-113_DDR016,W-113,Daily Drilling Report,W-113_DDR016.pdf,"NWIS PROTOTYPE - SYNTHETIC DAILY DRILLING REPORT (not a real OIL India record)
 ----------------------------------------------------------------
 Well: NHK-113 (W-113) Report No: 16

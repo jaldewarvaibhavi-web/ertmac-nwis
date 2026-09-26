@@ -37,9 +37,25 @@ from src.utils import (DATA_DIR, DECISION_NOTE, DEFAULT_CONFIG, MODELS_DIR, SYNT
 st.set_page_config(page_title="eRTMAC-NWIS", page_icon="🛢️", layout="wide")
 
 
-@st.cache_resource
+def _secrets_to_env():
+    """Streamlit Cloud: copy ANTHROPIC_API_KEY (and optional settings) from st.secrets to env vars."""
+    import os
+    try:
+        for k in ("ANTHROPIC_API_KEY", "NWIS_CLAUDE_MODEL", "NWIS_VECTOR_BACKEND"):
+            if k in st.secrets:
+                os.environ.setdefault(k, str(st.secrets[k]))
+    except Exception:          # no secrets file locally -> fine
+        pass
+
+
+@st.cache_resource(show_spinner="Preparing NWIS (first start can take about a minute)…")
 def context():
+    from src.bootstrap import ensure_ready
+    ensure_ready(verbose=False)
     return get_context()
+
+
+_secrets_to_env()
 
 
 @st.cache_resource

@@ -1,6 +1,8 @@
+# never commit secrets or the local virtual environment
 .env
+.streamlit/secrets.toml
 venv/
+.venv/
 __pycache__/
 *.pyc
-data/nwis.db
 .pytest_cache/

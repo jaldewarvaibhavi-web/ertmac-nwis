@@ -119,6 +119,9 @@ curl -X POST localhost:8000/risk/predict -H "Content-Type: application/json" \
      -d '{"well_id":"ACTIVE-01","depth":2690}'
 ```
 
+### Deploying online
+GitHub + Streamlit Community Cloud (main file `app/dashboard.py`): see **[docs/DEPLOYMENT.md](docs/DEPLOYMENT.md)**.
+
 ## 10. Running the demo simulation
 * Dashboard: sidebar → **▶ Start** (Start Simulation). ACTIVE-01 drills from 2,350 m; with
   "pause when a new elevated indication appears" ticked, it stops at each new elevated indication.

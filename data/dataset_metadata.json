@@ -1,5 +1,5 @@
 {
-  "label": "SYNTHETIC DATA — FOR PROTOTYPE DEMONSTRATION ONLY",
+  "label": "SYNTHETIC DATA â€” FOR PROTOTYPE DEMONSTRATION ONLY",
   "not": "Not Oil India data. Not eRTMAC data.",
   "generator": "data_generation/base_generator.py + build_spec_files.py (seeded, reproducible)",
   "formation_names": "Real Upper Assam stratigraphic names used for realism; all values generated.",
@@ -12,9 +12,7 @@
   "real_public_data": "data/forge/Well_58-32_processed_pason_log.csv (Utah FORGE 58-32, public)",
   "files": {
     "current_well_stream.csv": 3382,
-    "documents.csv": 74,
     "formation_tops.csv": 96,
-    "historical_events.csv": 44,
     "historical_parameters.csv": 51119,
     "well_geology.csv": 27247,
     "well_master.csv": 16

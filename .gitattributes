@@ -1,0 +1,12 @@
+# keep binary files byte-for-byte (no line-ending conversion)
+*.pdf binary
+*.joblib binary
+*.db binary
+*.png binary
+# text files: normalise line endings
+*.py text eol=lf
+*.csv text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+*.toml text eol=lf
+*.json text eol=lf

@@ -24,7 +24,15 @@ from src.utils import DECISION_NOTE, SYNTHETIC_BANNER, get_config
 _RETRIEVER: Retriever | None = None
 
 
+_READY = False
+
+
 def _ctx():
+    global _READY
+    if not _READY:
+        from src.bootstrap import ensure_ready
+        ensure_ready(verbose=False)
+        _READY = True
     return get_context()
 
 
