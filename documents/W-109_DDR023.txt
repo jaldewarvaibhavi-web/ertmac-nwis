@@ -1,0 +1,19 @@
+NWIS PROTOTYPE - SYNTHETIC DAILY DRILLING REPORT (not a real OIL India record)
+----------------------------------------------------------------
+Well: NHK-109 (W-109)      Report No: 23
+Date: 07-Feb-2009      Rig: E-2000 HP (synthetic)
+Depth @ 06:00: 1,610 m MD      Progress: 70 m
+Formation: Girujan      Hole size: 12 1/4"
+----------------------------------------------------------------
+TIME LOG (06:00 - 06:00)
+06:00-09:00  Drld 12 1/4" hole fr 1540 to 1541m. WOB 18 klbs, RPM 99, SPP 2310 psi, 739 gpm.
+09:00-10:00  Fr 1541m ROP dn 40% same WOB/RPM - bit balled?
+10:00-11:00  POOH, bit worn (grade 4-4), ran new PDC bit.
+              ROP OK w/ new bit.
+11:00-13:00  Resumed drlg.
+13:00-06:00  Drld ahead to 1610m.
+----------------------------------------------------------------
+MUD: WBM KCl-Polymer   MW 9.6 ppg   Pit volume 603 bbl
+NPT: 1.8 hrs (bit trip 1.8 hrs)
+----------------------------------------------------------------
+Company Man: P.D.

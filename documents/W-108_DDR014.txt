@@ -1,0 +1,16 @@
+NWIS PROTOTYPE - SYNTHETIC DAILY DRILLING REPORT (not a real OIL India record)
+----------------------------------------------------------------
+Well: NHK-108 (W-108)      Report No: 14
+Date: 29-Jan-2008      Rig: E-2000 HP (synthetic)
+Depth @ 06:00: 980 m MD      Progress: 70 m
+Formation: Girujan      Hole size: 12 1/4"
+----------------------------------------------------------------
+TIME LOG (06:00 - 06:00)
+06:00-16:00  Drilled 12 1/4" hole from 910 m to 950 m. WOB 18 klbs, RPM 98, SPP 1919 psi, flow 750 gpm.
+16:00-18:00  There were no losses and no tight spots; torque and drag were normal.
+18:00-06:00  Drilled ahead to 980 m. Background gas stayed around 0.3% with no shows.
+----------------------------------------------------------------
+MUD: WBM KCl-Polymer   MW 9.6 ppg   Pit volume 599 bbl
+NPT: Nil
+----------------------------------------------------------------
+Company Man: S.G.

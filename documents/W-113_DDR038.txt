@@ -1,0 +1,18 @@
+NWIS PROTOTYPE - SYNTHETIC DAILY DRILLING REPORT (not a real OIL India record)
+----------------------------------------------------------------
+Well: NHK-113 (W-113)      Report No: 38
+Date: 22-Feb-2013      Rig: E-2000 HP (synthetic)
+Depth @ 06:00: 2,660 m MD      Progress: 70 m
+Formation: Barail      Hole size: 8 1/2"
+----------------------------------------------------------------
+TIME LOG (06:00 - 06:00)
+06:00-07:00  The cement bond log run on the 9 5/8" casing (shoe at 2,595 m) showed a poor bond.
+07:00-18:00  Squeeze cement job performed after poor CBL.
+              The repeat CBL showed a good bond.
+18:00-20:00  Resumed drilling.
+20:00-06:00  Drilled ahead to 2,660 m.
+----------------------------------------------------------------
+MUD: WBM KCl-Polymer   MW 10.2 ppg   Pit volume 602 bbl
+NPT: 11.0 hrs (remedial cementing 11.0 hrs)
+----------------------------------------------------------------
+Company Man: S.G.

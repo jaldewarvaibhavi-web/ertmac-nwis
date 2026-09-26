@@ -1,0 +1,19 @@
+NWIS PROTOTYPE - SYNTHETIC DAILY DRILLING REPORT (not a real OIL India record)
+----------------------------------------------------------------
+Well: NHK-110 (W-110)      Report No: 44
+Date: 28-Feb-2021      Rig: E-2000 HP (synthetic)
+Depth @ 06:00: 3,080 m MD      Progress: 70 m
+Formation: Barail      Hole size: 8 1/2"
+----------------------------------------------------------------
+TIME LOG (06:00 - 06:00)
+06:00-09:00  Drilled 8 1/2" hole from 3,010 m to 3,059 m. WOB 21 klbs, RPM 105, SPP 1493 psi, flow 495 gpm.
+09:00-10:00  Near 3,059 m the torque started jumping, reaching 19 kft-lbs.
+10:00-12:00  Added lubricant (2%) to mud, torque normalised.
+              Torque came back to normal.
+12:00-14:00  Resumed drilling.
+14:00-06:00  Drilled ahead to 3,080 m.
+----------------------------------------------------------------
+MUD: WBM KCl-Polymer   MW 10.2 ppg   Pit volume 601 bbl
+NPT: 2.5 hrs (high torque 2.5 hrs)
+----------------------------------------------------------------
+Company Man: S.G.

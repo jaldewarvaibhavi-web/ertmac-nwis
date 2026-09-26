@@ -1,0 +1,27 @@
+# core
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+joblib>=1.3
+python-dotenv>=1.0
+# dashboard
+streamlit>=1.35
+plotly>=5.18
+folium>=0.16
+streamlit-folium>=0.20
+# API
+fastapi>=0.110
+uvicorn>=0.27
+python-multipart>=0.0.9
+# documents / OCR (Tesseract engine: `brew install tesseract` on Mac)
+pdfplumber>=0.10
+pytesseract>=0.3.10
+pillow>=10.0
+reportlab>=4.0
+# LLM explanation layer (optional - app works offline without a key)
+anthropic>=0.40
+# testing
+pytest>=8.0
+httpx>=0.27
+# optional: vector database (set NWIS_VECTOR_BACKEND=chroma)
+# chromadb>=0.5

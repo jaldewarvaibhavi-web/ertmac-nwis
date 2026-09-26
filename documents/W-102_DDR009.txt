@@ -1,0 +1,16 @@
+NWIS PROTOTYPE - SYNTHETIC DAILY DRILLING REPORT (not a real OIL India record)
+----------------------------------------------------------------
+Well: NHK-102 (W-102)      Report No: 9
+Date: 24-Jan-2016      Rig: E-2000 HP (synthetic)
+Depth @ 06:00: 630 m MD      Progress: 70 m
+Formation: Namsang      Hole size: 17 1/2"
+----------------------------------------------------------------
+TIME LOG (06:00 - 06:00)
+06:00-16:00  Drilled 17 1/2" hole from 560 m to 600 m. WOB 12 klbs, RPM 124, SPP 2405 psi, flow 912 gpm.
+16:00-18:00  There were no losses and no tight spots; torque and drag were normal.
+18:00-06:00  Drilled ahead to 630 m. Background gas stayed around 0.3% with no shows.
+----------------------------------------------------------------
+MUD: WBM KCl-Polymer   MW 9.0 ppg   Pit volume 600 bbl
+NPT: Nil
+----------------------------------------------------------------
+Company Man: S.G.

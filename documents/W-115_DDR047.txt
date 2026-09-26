@@ -1,0 +1,19 @@
+NWIS PROTOTYPE - SYNTHETIC DAILY DRILLING REPORT (not a real OIL India record)
+----------------------------------------------------------------
+Well: NHK-115 (W-115)      Report No: 47
+Date: 03-Mar-2017      Rig: E-2000 HP (synthetic)
+Depth @ 06:00: 3,290 m MD      Progress: 70 m
+Formation: Kopili      Hole size: 8 1/2"
+----------------------------------------------------------------
+TIME LOG (06:00 - 06:00)
+06:00-09:00  Drld 8 1/2" hole fr 3220 to 3278m. WOB 23 klbs, RPM 94, SPP 1512 psi, 503 gpm.
+09:00-10:00  @ 3278m drlg break, F/C +ve, 18 bbl gain in pits. S/I well on BOP.
+10:00-16:00  Shut in well, circ out kick with 0.5 ppg heavier kill mud.
+              well dead, BOP opened.
+16:00-18:00  Resumed drlg.
+18:00-06:00  Drld ahead to 3290m.
+----------------------------------------------------------------
+MUD: WBM KCl-Polymer   MW 10.6 ppg   Pit volume 600 bbl
+NPT: 6.3 hrs (WC 6.3 hrs)
+----------------------------------------------------------------
+Company Man: P.D.

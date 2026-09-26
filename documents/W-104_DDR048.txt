@@ -1,0 +1,19 @@
+NWIS PROTOTYPE - SYNTHETIC DAILY DRILLING REPORT (not a real OIL India record)
+----------------------------------------------------------------
+Well: NHK-104 (W-104)      Report No: 48
+Date: 04-Mar-2014      Rig: E-2000 HP (synthetic)
+Depth @ 06:00: 3,360 m MD      Progress: 70 m
+Formation: Kopili      Hole size: 8 1/2"
+----------------------------------------------------------------
+TIME LOG (06:00 - 06:00)
+06:00-09:00  Drilled 8 1/2" hole from 3,290 m to 3,334 m. WOB 25 klbs, RPM 93, SPP 1583 psi, flow 502 gpm.
+09:00-10:00  At 3,334 m encountered tight hole with some cavings on shakers.
+10:00-11:00  Raised MW by 0.2 ppg, added KCl/polymer inhibitor, reamed tight spots.
+              Hole in good condition after reaming.
+11:00-13:00  Resumed drilling.
+13:00-06:00  Drilled ahead to 3,360 m.
+----------------------------------------------------------------
+MUD: WBM KCl-Polymer   MW 10.6 ppg   Pit volume 598 bbl
+NPT: 1.9 hrs (Tight hole 1.9 hrs)
+----------------------------------------------------------------
+Company Man: R.K.

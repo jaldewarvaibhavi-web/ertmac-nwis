@@ -1,0 +1,16 @@
+NWIS PROTOTYPE - SYNTHETIC DAILY DRILLING REPORT (not a real OIL India record)
+----------------------------------------------------------------
+Well: NHK-109 (W-109)      Report No: 40
+Date: 24-Feb-2009      Rig: E-2000 HP (synthetic)
+Depth @ 06:00: 2,800 m MD      Progress: 70 m
+Formation: Barail      Hole size: 8 1/2"
+----------------------------------------------------------------
+TIME LOG (06:00 - 06:00)
+06:00-16:00  Drld 8 1/2" hole fr 2730 to 2770m. WOB 23 klbs, RPM 103, SPP 1443 psi, 504 gpm.
+16:00-18:00  No losses. Hole OK, no tite spots. T&D normal.
+18:00-06:00  Drld ahead to 2800m. BG gas 0.3%, nil shows.
+----------------------------------------------------------------
+MUD: WBM KCl-Polymer   MW 10.2 ppg   Pit volume 599 bbl
+NPT: Nil
+----------------------------------------------------------------
+Company Man: P.D.

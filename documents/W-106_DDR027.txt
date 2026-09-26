@@ -1,0 +1,19 @@
+NWIS PROTOTYPE - SYNTHETIC DAILY DRILLING REPORT (not a real OIL India record)
+----------------------------------------------------------------
+Well: NHK-106 (W-106)      Report No: 27
+Date: 11-Feb-2018      Rig: E-2000 HP (synthetic)
+Depth @ 06:00: 1,890 m MD      Progress: 70 m
+Formation: Tipam      Hole size: 12 1/4"
+----------------------------------------------------------------
+TIME LOG (06:00 - 06:00)
+06:00-09:00  Drilled 12 1/4" hole from 1,820 m to 1,872 m. WOB 18 klbs, RPM 108, SPP 2411 psi, flow 760 gpm.
+09:00-10:00  Drilled to 1,872 m. Observed partial mud losses at 47 bbl/hr. Stopped drilling.
+10:00-15:00  Pumped 2 LCM pills, losses continued; set cement plug.
+              Losses continued.
+15:00-17:00  Resumed drilling.
+17:00-06:00  Drilled ahead to 1,890 m.
+----------------------------------------------------------------
+MUD: WBM KCl-Polymer   MW 9.6 ppg   Pit volume 603 bbl
+NPT: 5.4 hrs (Lost circulation 5.4 hrs)
+----------------------------------------------------------------
+Company Man: R.K.

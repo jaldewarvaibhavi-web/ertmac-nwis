@@ -1,0 +1,19 @@
+NWIS PROTOTYPE - SYNTHETIC DAILY DRILLING REPORT (not a real OIL India record)
+----------------------------------------------------------------
+Well: NHK-101 (W-101)      Report No: 45
+Date: 01-Mar-2015      Rig: E-2000 HP (synthetic)
+Depth @ 06:00: 3,150 m MD      Progress: 70 m
+Formation: Barail      Hole size: 8 1/2"
+----------------------------------------------------------------
+TIME LOG (06:00 - 06:00)
+06:00-09:00  Drld 8 1/2" hole fr 3080 to 3091m. WOB 23 klbs, RPM 96, SPP 1488 psi, 497 gpm.
+09:00-10:00  @ 3091m erratic torque, spikes to 20 kft-lbs, stick-slip.
+10:00-12:00  Reduced WOB and RPM, circ hole clean.
+              torque normal.
+12:00-14:00  Resumed drlg.
+14:00-06:00  Drld ahead to 3150m.
+----------------------------------------------------------------
+MUD: WBM KCl-Polymer   MW 10.2 ppg   Pit volume 599 bbl
+NPT: 2.8 hrs (torque 2.8 hrs)
+----------------------------------------------------------------
+Company Man: P.D.

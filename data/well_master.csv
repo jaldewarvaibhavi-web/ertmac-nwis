@@ -1,0 +1,17 @@
+well_id,well_name,latitude,longitude,field,basin,total_depth,drilling_year,well_status,formation,current_depth,data_origin
+W-101,NHK-101,27.25224,95.32172,Synthetic Assam-style field,Assam-Arakan (synthetic analogue),3470,2015,Completed,Kopili,3470,SYNTHETIC
+W-102,NHK-102,27.28005,95.30723,Synthetic Assam-style field,Assam-Arakan (synthetic analogue),3381,2016,Completed,Kopili,3381,SYNTHETIC
+W-103,NHK-103,27.34015,95.31915,Synthetic Assam-style field,Assam-Arakan (synthetic analogue),3467,2022,Completed,Kopili,3467,SYNTHETIC
+W-104,NHK-104,27.31761,95.35466,Synthetic Assam-style field,Assam-Arakan (synthetic analogue),3460,2014,Completed,Kopili,3460,SYNTHETIC
+W-105,NHK-105,27.27705,95.32735,Synthetic Assam-style field,Assam-Arakan (synthetic analogue),3454,2009,Completed,Kopili,3454,SYNTHETIC
+W-106,NHK-106,27.31922,95.26218,Synthetic Assam-style field,Assam-Arakan (synthetic analogue),3394,2018,Completed,Kopili,3394,SYNTHETIC
+W-107,NHK-107,27.33089,95.34189,Synthetic Assam-style field,Assam-Arakan (synthetic analogue),3414,2022,Completed,Kopili,3414,SYNTHETIC
+W-108,NHK-108,27.26397,95.28131,Synthetic Assam-style field,Assam-Arakan (synthetic analogue),3335,2008,Completed,Kopili,3335,SYNTHETIC
+W-109,NHK-109,27.25597,95.28266,Synthetic Assam-style field,Assam-Arakan (synthetic analogue),3391,2009,Completed,Kopili,3391,SYNTHETIC
+W-110,NHK-110,27.30545,95.36057,Synthetic Assam-style field,Assam-Arakan (synthetic analogue),3431,2021,Completed,Kopili,3431,SYNTHETIC
+W-111,NHK-111,27.26029,95.3298,Synthetic Assam-style field,Assam-Arakan (synthetic analogue),3494,2015,Completed,Kopili,3494,SYNTHETIC
+W-112,NHK-112,27.27648,95.29983,Synthetic Assam-style field,Assam-Arakan (synthetic analogue),3365,2023,Completed,Kopili,3365,SYNTHETIC
+W-113,NHK-113,27.33002,95.32074,Synthetic Assam-style field,Assam-Arakan (synthetic analogue),3421,2013,Completed,Kopili,3421,SYNTHETIC
+W-114,NHK-114,27.28933,95.2431,Synthetic Assam-style field,Assam-Arakan (synthetic analogue),3292,2021,Completed,Kopili,3292,SYNTHETIC
+W-115,NHK-115,27.27154,95.2826,Synthetic Assam-style field,Assam-Arakan (synthetic analogue),3350,2017,Completed,Kopili,3350,SYNTHETIC
+ACTIVE-01,ACTIVE-01,27.305,95.305,Synthetic Assam-style field,Assam-Arakan (synthetic analogue),3382,2026,Active,Kopili,2450,SYNTHETIC

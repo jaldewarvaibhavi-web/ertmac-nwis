@@ -1,0 +1,16 @@
+NWIS PROTOTYPE - SYNTHETIC DAILY DRILLING REPORT (not a real OIL India record)
+----------------------------------------------------------------
+Well: NHK-111 (W-111)      Report No: 33
+Date: 17-Feb-2015      Rig: E-2000 HP (synthetic)
+Depth @ 06:00: 2,310 m MD      Progress: 70 m
+Formation: Tipam      Hole size: 12 1/4"
+----------------------------------------------------------------
+TIME LOG (06:00 - 06:00)
+06:00-16:00  Drld 12 1/4" hole fr 2240 to 2280m. WOB 17 klbs, RPM 112, SPP 2587 psi, 746 gpm.
+16:00-18:00  No losses. Hole OK, no tite spots. T&D normal.
+18:00-06:00  Drld ahead to 2310m. BG gas 0.3%, nil shows.
+----------------------------------------------------------------
+MUD: WBM KCl-Polymer   MW 9.6 ppg   Pit volume 602 bbl
+NPT: Nil
+----------------------------------------------------------------
+Company Man: P.D.

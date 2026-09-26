@@ -1,0 +1,19 @@
+NWIS PROTOTYPE - SYNTHETIC DAILY DRILLING REPORT (not a real OIL India record)
+----------------------------------------------------------------
+Well: NHK-102 (W-102)      Report No: 42
+Date: 26-Feb-2016      Rig: E-2000 HP (synthetic)
+Depth @ 06:00: 2,940 m MD      Progress: 70 m
+Formation: Barail      Hole size: 8 1/2"
+----------------------------------------------------------------
+TIME LOG (06:00 - 06:00)
+06:00-09:00  Drilled 8 1/2" hole from 2,870 m to 2,898 m. WOB 25 klbs, RPM 100, SPP 1382 psi, flow 496 gpm.
+09:00-10:00  At 2,898 m the string got stuck during a connection; we pulled 56 klbs over string weight.
+10:00-23:00  Jarred up, spotted pipe-freeing pill, pipe free after 6 hrs.
+              The pipe came free.
+23:00-01:00  Resumed drilling.
+01:00-06:00  Drilled ahead to 2,940 m.
+----------------------------------------------------------------
+MUD: WBM KCl-Polymer   MW 10.2 ppg   Pit volume 597 bbl
+NPT: 13.7 hrs (stuck pipe 13.7 hrs)
+----------------------------------------------------------------
+Company Man: S.G.
